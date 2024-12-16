@@ -4,6 +4,6 @@ package org.lesgo;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("We'll me trying to do something");
+        System.out.println("We'll me trying to do something!!");
     }
 }
